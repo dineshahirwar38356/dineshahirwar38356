@@ -3,7 +3,8 @@
 2. I’m looking to collaborate on<br>Beginner-friendly web development projects, Arduino/embedded systems, and open-source repositories where I can learn, contribute code, and grow as a developer.<br>
 3. I’m looking for help with<br>Improving problem-solving in DSA, understanding backend development concepts, and gaining guidance for internships and real-world project experience.<br>
 4. I’m currently learning<br>Full-stack web development (React, Node.js, Express, MongoDB)<br>Data Structures and Algorithms<br>Embedded systems and microcontroller-based applications<br>
-5. Ask me about<br>C, C++, and Java basics<br>Arduino and embedded projects<br>Creating a personal portfolio website<br>Getting started with web development<br>6. Fun fact<br>I enjoy turning simple ideas into working projects—whether it’s a line-following robot or a portfolio website, I like learning by building 🚀
+5. Ask me about<br>C, C++, and Java basics<br>Arduino and embedded projects<br>Creating a personal portfolio website<br>Getting started with web development<br>
+6. Fun fact<br>I enjoy turning simple ideas into working projects—whether it’s a line-following robot or a portfolio website, I like learning by building 🚀
 
 
 ## 🌐 Socials:
